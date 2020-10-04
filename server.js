@@ -1,5 +1,12 @@
 const express = require('express');
 const connectDB = require('./config/db');
+const config = require('config');
+const admin = require('firebase-admin');
+
+admin.initializeApp({
+  credential: admin.credential.cert(config.get('serviceAccount')),
+  databaseURL: 'https://souperheroes-32ce8.firebaseio.com'
+});
 
 const app = express();
 

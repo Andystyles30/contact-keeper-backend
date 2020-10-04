@@ -1,4 +1,16 @@
 {
   "mongoURI": "mongodb+srv://andy123:andy123@contactkeeper.bdrmn.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "secret"
+  "jwtSecret": "secret",
+  "serviceAccount": {
+    "type": "service_account",
+    "project_id": "souperheroes-32ce8",
+    "private_key_id": "40ad10e01a670b633a85d1e08f587d1f121830c9",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDSMY6OllhsdO34\nr+jb3CzKKiFHfbPJAOvgmdhg/GR6yWKMm2A+xF89ManI7gSEL9w2o/SOvj27uTNu\nL+IFD95i2NtUHg5LUc2Rk4lrw6PRj1ClhsGE2gAUv7tB1JEqWlt73kzOSwAMKR7f\nu/Nx6iUGvOnY/SeBT54oQ30xWEmcRgHrbN7+4N/1h5kd8MlexHy2mUfUShrJqkHu\n/Ij0C1uDcLsFPo93aczabHo+vRSeVn/XafTyGyTeYzCLoKRwnxQkaD2y9y/+IMZe\nkVN/6yMV+G1ZgM1F90BkWs7cmyA/uJxXrHg74PioTNhiQxwpqnwdg1VWeo0YWlaf\ncCT9F9pJAgMBAAECggEAA/LbYeawJZAdclkM+lMMt7A1Qixkhrz7hr4ieFFK1UWt\nkhpPI2QOrU3JX0Adb0WeO5vhOcHtffZ7jAaJQUgW3kDYVKBglgik4Hxm41KLDszu\n77/JfeSXMMyYniLPUVOI5Bmn1A5I+MbYUM1X7vFo8v30igIuI6SVF4jhCV7GZJGh\nZgNg6CbSpW2Lu+j3P1yl731zqNSst25+MMPziNo7qJVQWRAWRujxofE3cvPt7ctE\n5XLyahhg3EUv2ezM94cAJLBcZsQKjGutWVm/5LCyw+cbqnQQOY0j/hri8+TZJt4f\nB273CbMLoPqrPiELsNN1ZURr7dpJZN2GFBIXh34Y8wKBgQDpvmR5ke4o1qfqSsNW\nyIfsF6Us3Gj49NKZnguK+3CQdwNphXfqVbCEUarvLiAF80tqdm8z+E+pYAXkgXBS\nga8x1uxQUTMo8/NLUnvazjq7FnINN3DOUx6tdodt4LuJplo+229hElBaLEvGggSf\ni+heWM1IoFyDQsirWts7AX3dewKBgQDmNR6F5DgaWz0C1sZZdnqszT31sIYMOA1Z\nG/4z5rORzR4Bm/biVXzeuFWu7sfHBgHlF9HapY5KQH6cPnPINq4+5bmGov/P6Sxi\nij5z7JWXmAAs3WWgjtLYvk2zXvXK/Oljx/8qxyBEYAKMbNDost33xhDo/m7ffQG4\nzG4u3D8iCwKBgQDdnvGw+pYvDmejE0Pmsrd9OGYaBNlawvYzRNB49DIkJ1OK50tt\nWdXFf5FsufUO70EgLi79vX/6fdrYb4nKEL/Fp5vkAzlYqQSS9CAOs96nqH523YwN\ndG3v1iROH/hwaNPEKVaPWUfqV3l5O6mahJLLcbMiGzncEqQlJD4c0is+pQKBgQCE\njmfB/zTS8GCERvm1wARJhnE8DOZTGN+OxRCuABS8StkRYiZaE5GwiYJFFZeRoYLr\n0Lh050m0tchx3YA79EiHTS50OV2F8aUuJJ5rj/pfbRYEv4NqXXNJfOMu+uobdWBK\npXnnvvt0g7hT9cChjYVEzBcmooNjSw73wzda4lW0GwKBgQC2Yl0wcV3WUuMt6wOn\n3LDdIbNzEk6zpYFriNNE1l7OlcFvPbcspRHrLj3W/6Zd81oLUdKAqeYX3cN1ZjyK\nvbS35ZRiE1+JwKjA+RtsrsmqLSuSZjjEygg+SPn7DgjIvFoYvarjTQPdpJFZT6FL\nCd+rxVSKucEM0HRS8WijPl5sXA==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-erc4p@souperheroes-32ce8.iam.gserviceaccount.com",
+    "client_id": "106387659005610468013",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-erc4p%40souperheroes-32ce8.iam.gserviceaccount.com"
+  }
 }
